@@ -1,5 +1,6 @@
 func previous_func() {
     print("previous")
+    print("addition on function")
 }
 
 func test() {
