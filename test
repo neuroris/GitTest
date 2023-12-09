@@ -1,3 +1,7 @@
+func start_func() {
+	print("start")
+}
+
 func previous_func() {
     print("previous")
     print("in between")
