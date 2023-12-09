@@ -1,5 +1,6 @@
 func previous_func() {
     print("previous")
+    print("in between")
     print("addition on function")
 }
 
@@ -8,7 +9,12 @@ func test() {
 }
 
 Hello Git!
+in between
 second
+
+func in_between_func() {
+	print("in between")
+}
 
 func next_func() {
     print("next")
