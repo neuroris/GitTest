@@ -31,3 +31,7 @@ func end_func() {
 func main_addition_func() {
 	print("main additin")
 }
+
+func addtion_func() {
+	print("addition")
+}
