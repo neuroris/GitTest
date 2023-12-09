@@ -19,3 +19,7 @@ func in_between_func() {
 func next_func() {
     print("next")
 }
+
+func end_func() {
+	print("end")
+}
