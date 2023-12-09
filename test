@@ -27,3 +27,7 @@ func next_func() {
 func end_func() {
 	print("end")
 }
+
+func main_addition_func() {
+	print("main additin")
+}
