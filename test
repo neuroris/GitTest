@@ -1,2 +1,6 @@
+func test() {
+    print("test")
+}
+
 Hello Git!
 second
