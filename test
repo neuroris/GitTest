@@ -1,6 +1,14 @@
+func previous_func() {
+    print("previous")
+}
+
 func test() {
     print("test")
 }
 
 Hello Git!
 second
+
+func next_func() {
+    print("next")
+}
