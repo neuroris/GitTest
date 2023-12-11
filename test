@@ -35,3 +35,7 @@ func main_addition_func() {
 func addtion_func() {
 	print("addition")
 }
+
+func dev7_end_func() {
+	print("dev7 end")
+}
