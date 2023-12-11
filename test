@@ -32,6 +32,10 @@ func main_addition_func() {
 	print("main additin")
 }
 
+func right_before_end_func() {
+	print("right before end")
+}
+
 func addtion_func() {
 	print("addition")
 }
