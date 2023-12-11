@@ -1,3 +1,7 @@
+func before_start_dev8() {
+	print("before start dev8")
+}
+
 func start_func() {
 	print("start")
 }
